@@ -25,7 +25,7 @@ Cada competência é avaliada individualmente em uma escala de 0 a 200, e a nota
 - Python 3.8+
 - Conta na OpenAI
 
-##🚧 Status do Projeto
+## 🚧 Status do Projeto
 Fase Atual: Desenvolvimento Inicial
 Próximas Etapas:
 
@@ -35,6 +35,6 @@ Testar com redações reais
 
 Calibrar modelo com correções humanas
 
-##Créditos:
+## Créditos:
 **"Este projeto foi baseado no repositório original Projetos Práticos de IA da Scoras Academy."**
--Link dos projetos práticos Scoras-Academy : github.com/Scoras-Academy/Projetos_Praticos_de_IA
+**-Link dos projetos práticos Scoras-Academy : github.com/Scoras-Academy/Projetos_Praticos_de_IA**
